@@ -1,0 +1,48 @@
+﻿using System;
+using System.Diagnostics.CodeAnalysis;
+using System.Reflection.Metadata;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("nhap so a: ");
+        double a = double.Parse(Console.ReadLine());
+
+        Console.WriteLine("nhap so b: ");
+        double b = double.Parse(Console.ReadLine());
+
+        Console.WriteLine("nhap phep toan (+, -, *, /, %)");
+        char op = char.Parse(Console.ReadLine());
+
+        try
+        {
+            double result = op switch
+            {
+                '+' => a + b,
+                '-' => a - b,
+                '*' => a * b,
+                '/' => b switch
+                {
+                    0 => throw new DivideByZeroException(),
+                    _ => a / b
+                },
+                '%' => b switch
+                {
+                    0 => throw new DivideByZeroException(),
+                    _ => a % b
+                },
+                _ => throw new InvalidCastException("phep toan khong hop le")
+            };
+            Console.WriteLine($"ket qua: {result:F2}");
+        }
+        catch (DivideByZeroException)
+        {
+            Console.WriteLine("loi: khong the chia cho 0");
+        }
+        catch (InvalidOperationException ex)
+        {
+            Console.WriteLine($"{ex.Message}");
+        }
+    }
+}
