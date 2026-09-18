@@ -1,0 +1,14 @@
+D:\.net\EXAM18092026\EXAM6\bin\Debug\net10.0\EXAM6.exe
+D:\.net\EXAM18092026\EXAM6\bin\Debug\net10.0\EXAM6.deps.json
+D:\.net\EXAM18092026\EXAM6\bin\Debug\net10.0\EXAM6.runtimeconfig.json
+D:\.net\EXAM18092026\EXAM6\bin\Debug\net10.0\EXAM6.dll
+D:\.net\EXAM18092026\EXAM6\bin\Debug\net10.0\EXAM6.pdb
+D:\.net\EXAM18092026\EXAM6\obj\Debug\net10.0\EXAM6.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\EXAM18092026\EXAM6\obj\Debug\net10.0\EXAM6.AssemblyInfoInputs.cache
+D:\.net\EXAM18092026\EXAM6\obj\Debug\net10.0\EXAM6.AssemblyInfo.cs
+D:\.net\EXAM18092026\EXAM6\obj\Debug\net10.0\EXAM6.csproj.CoreCompileInputs.cache
+D:\.net\EXAM18092026\EXAM6\obj\Debug\net10.0\EXAM6.dll
+D:\.net\EXAM18092026\EXAM6\obj\Debug\net10.0\refint\EXAM6.dll
+D:\.net\EXAM18092026\EXAM6\obj\Debug\net10.0\EXAM6.pdb
+D:\.net\EXAM18092026\EXAM6\obj\Debug\net10.0\EXAM6.genruntimeconfig.cache
+D:\.net\EXAM18092026\EXAM6\obj\Debug\net10.0\ref\EXAM6.dll

@@ -1,0 +1,14 @@
+D:\.net\EXAM18092026\EXAM5\bin\Debug\net10.0\EXAM5.exe
+D:\.net\EXAM18092026\EXAM5\bin\Debug\net10.0\EXAM5.deps.json
+D:\.net\EXAM18092026\EXAM5\bin\Debug\net10.0\EXAM5.runtimeconfig.json
+D:\.net\EXAM18092026\EXAM5\bin\Debug\net10.0\EXAM5.dll
+D:\.net\EXAM18092026\EXAM5\bin\Debug\net10.0\EXAM5.pdb
+D:\.net\EXAM18092026\EXAM5\obj\Debug\net10.0\EXAM5.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\EXAM18092026\EXAM5\obj\Debug\net10.0\EXAM5.AssemblyInfoInputs.cache
+D:\.net\EXAM18092026\EXAM5\obj\Debug\net10.0\EXAM5.AssemblyInfo.cs
+D:\.net\EXAM18092026\EXAM5\obj\Debug\net10.0\EXAM5.csproj.CoreCompileInputs.cache
+D:\.net\EXAM18092026\EXAM5\obj\Debug\net10.0\EXAM5.dll
+D:\.net\EXAM18092026\EXAM5\obj\Debug\net10.0\refint\EXAM5.dll
+D:\.net\EXAM18092026\EXAM5\obj\Debug\net10.0\EXAM5.pdb
+D:\.net\EXAM18092026\EXAM5\obj\Debug\net10.0\EXAM5.genruntimeconfig.cache
+D:\.net\EXAM18092026\EXAM5\obj\Debug\net10.0\ref\EXAM5.dll

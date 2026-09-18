@@ -1,0 +1,14 @@
+D:\.net\EXAM18092026\EXAM4\bin\Debug\net10.0\EXAM4.exe
+D:\.net\EXAM18092026\EXAM4\bin\Debug\net10.0\EXAM4.deps.json
+D:\.net\EXAM18092026\EXAM4\bin\Debug\net10.0\EXAM4.runtimeconfig.json
+D:\.net\EXAM18092026\EXAM4\bin\Debug\net10.0\EXAM4.dll
+D:\.net\EXAM18092026\EXAM4\bin\Debug\net10.0\EXAM4.pdb
+D:\.net\EXAM18092026\EXAM4\obj\Debug\net10.0\EXAM4.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\EXAM18092026\EXAM4\obj\Debug\net10.0\EXAM4.AssemblyInfoInputs.cache
+D:\.net\EXAM18092026\EXAM4\obj\Debug\net10.0\EXAM4.AssemblyInfo.cs
+D:\.net\EXAM18092026\EXAM4\obj\Debug\net10.0\EXAM4.csproj.CoreCompileInputs.cache
+D:\.net\EXAM18092026\EXAM4\obj\Debug\net10.0\EXAM4.dll
+D:\.net\EXAM18092026\EXAM4\obj\Debug\net10.0\refint\EXAM4.dll
+D:\.net\EXAM18092026\EXAM4\obj\Debug\net10.0\EXAM4.pdb
+D:\.net\EXAM18092026\EXAM4\obj\Debug\net10.0\EXAM4.genruntimeconfig.cache
+D:\.net\EXAM18092026\EXAM4\obj\Debug\net10.0\ref\EXAM4.dll
