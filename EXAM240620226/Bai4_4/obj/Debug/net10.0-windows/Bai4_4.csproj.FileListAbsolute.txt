@@ -1,0 +1,17 @@
+D:\.net\Bai4_4\bin\Debug\net10.0-windows\Bai4_4.exe
+D:\.net\Bai4_4\bin\Debug\net10.0-windows\Bai4_4.deps.json
+D:\.net\Bai4_4\bin\Debug\net10.0-windows\Bai4_4.runtimeconfig.json
+D:\.net\Bai4_4\bin\Debug\net10.0-windows\Bai4_4.dll
+D:\.net\Bai4_4\bin\Debug\net10.0-windows\Bai4_4.pdb
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\Bai4_4.Form1.resources
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\Bai4_4.csproj.GenerateResource.cache
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\Bai4_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\Bai4_4.AssemblyInfoInputs.cache
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\Bai4_4.AssemblyInfo.cs
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\Bai4_4.csproj.CoreCompileInputs.cache
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\Bai4_4.dll
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\refint\Bai4_4.dll
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\Bai4_4.pdb
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\Bai4_4.genruntimeconfig.cache
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\ref\Bai4_4.dll
+D:\.net\Bai4_4\obj\Debug\net10.0-windows\Bai4_4.csproj.Up2Date
