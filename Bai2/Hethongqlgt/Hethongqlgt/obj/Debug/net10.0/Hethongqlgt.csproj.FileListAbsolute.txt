@@ -1,0 +1,15 @@
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\bin\Debug\net10.0\Hethongqlgt.exe
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\bin\Debug\net10.0\Hethongqlgt.deps.json
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\bin\Debug\net10.0\Hethongqlgt.runtimeconfig.json
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\bin\Debug\net10.0\Hethongqlgt.dll
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\bin\Debug\net10.0\Hethongqlgt.pdb
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\obj\Debug\net10.0\Hethongqlgt.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\obj\Debug\net10.0\Hethongqlgt.AssemblyInfoInputs.cache
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\obj\Debug\net10.0\Hethongqlgt.AssemblyInfo.cs
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\obj\Debug\net10.0\Hethongqlgt.csproj.CoreCompileInputs.cache
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\obj\Debug\net10.0\Hethongqlgt.dll
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\obj\Debug\net10.0\refint\Hethongqlgt.dll
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\obj\Debug\net10.0\Hethongqlgt.pdb
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\obj\Debug\net10.0\Hethongqlgt.genruntimeconfig.cache
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\obj\Debug\net10.0\ref\Hethongqlgt.dll
+D:\.net\BaiKiemTra01\Bai2\Hethongqlgt\Hethongqlgt\obj\Debug\net10.0\Hethongq.1E14DA0A.Up2Date
