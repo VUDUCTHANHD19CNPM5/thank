@@ -1,0 +1,17 @@
+D:\.net\baitap0610\bai5.2\bin\Debug\net10.0-windows\bai5.2.exe
+D:\.net\baitap0610\bai5.2\bin\Debug\net10.0-windows\bai5.2.deps.json
+D:\.net\baitap0610\bai5.2\bin\Debug\net10.0-windows\bai5.2.runtimeconfig.json
+D:\.net\baitap0610\bai5.2\bin\Debug\net10.0-windows\bai5.2.dll
+D:\.net\baitap0610\bai5.2\bin\Debug\net10.0-windows\bai5.2.pdb
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\bai5._2.Form1.resources
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\bai5.2.csproj.GenerateResource.cache
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\bai5.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\bai5.2.AssemblyInfoInputs.cache
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\bai5.2.AssemblyInfo.cs
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\bai5.2.csproj.CoreCompileInputs.cache
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\bai5.2.dll
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\refint\bai5.2.dll
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\bai5.2.pdb
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\bai5.2.genruntimeconfig.cache
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\ref\bai5.2.dll
+D:\.net\baitap0610\bai5.2\obj\Debug\net10.0-windows\bai5.2.csproj.Up2Date

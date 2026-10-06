@@ -1,0 +1,17 @@
+D:\.net\baitap0610\bai5_3\bin\Debug\net10.0-windows\bai5_3.exe
+D:\.net\baitap0610\bai5_3\bin\Debug\net10.0-windows\bai5_3.deps.json
+D:\.net\baitap0610\bai5_3\bin\Debug\net10.0-windows\bai5_3.runtimeconfig.json
+D:\.net\baitap0610\bai5_3\bin\Debug\net10.0-windows\bai5_3.dll
+D:\.net\baitap0610\bai5_3\bin\Debug\net10.0-windows\bai5_3.pdb
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\bai5_3.Form1.resources
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\bai5_3.csproj.GenerateResource.cache
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\bai5_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\bai5_3.AssemblyInfoInputs.cache
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\bai5_3.AssemblyInfo.cs
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\bai5_3.csproj.CoreCompileInputs.cache
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\bai5_3.dll
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\refint\bai5_3.dll
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\bai5_3.pdb
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\bai5_3.genruntimeconfig.cache
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\ref\bai5_3.dll
+D:\.net\baitap0610\bai5_3\obj\Debug\net10.0-windows\bai5_3.csproj.Up2Date

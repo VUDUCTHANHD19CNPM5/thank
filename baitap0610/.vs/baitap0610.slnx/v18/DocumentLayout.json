@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\baitap0610\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A2016-B025-4BFE-9516-BF9AD11BCE6B}|bai5.4\\bai5.4.csproj|d:\\.net\\baitap0610\\bai5.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D69A2016-B025-4BFE-9516-BF9AD11BCE6B}|bai5.4\\bai5.4.csproj|solutionrelative:bai5.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A2016-B025-4BFE-9516-BF9AD11BCE6B}|bai5.4\\bai5.4.csproj|d:\\.net\\baitap0610\\bai5.4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69A2016-B025-4BFE-9516-BF9AD11BCE6B}|bai5.4\\bai5.4.csproj|solutionrelative:bai5.4\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D69A2016-B025-4BFE-9516-BF9AD11BCE6B}|bai5.4\\bai5.4.csproj|d:\\.net\\baitap0610\\bai5.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D69A2016-B025-4BFE-9516-BF9AD11BCE6B}|bai5.4\\bai5.4.csproj|solutionrelative:bai5.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\.net\\baitap0610\\bai5.4\\Form1.cs",
+              "RelativeDocumentMoniker": "bai5.4\\Form1.cs",
+              "ToolTip": "D:\\.net\\baitap0610\\bai5.4\\Form1.cs",
+              "RelativeToolTip": "bai5.4\\Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:56:45.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.net\\baitap0610\\bai5.4\\Employee.cs",
+              "RelativeDocumentMoniker": "bai5.4\\Employee.cs",
+              "ToolTip": "D:\\.net\\baitap0610\\bai5.4\\Employee.cs",
+              "RelativeToolTip": "bai5.4\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:55:34.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\.net\\baitap0610\\bai5.4\\Form1.cs",
+              "RelativeDocumentMoniker": "bai5.4\\Form1.cs",
+              "ToolTip": "D:\\.net\\baitap0610\\bai5.4\\Form1.cs [Design]",
+              "RelativeToolTip": "bai5.4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:40:55.381Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

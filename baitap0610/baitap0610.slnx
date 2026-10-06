@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="bai5.1/bai5.1.csproj" />
+  <Project Path="bai5.2/bai5.2.csproj" />
+  <Project Path="bai5.3/bai5.3.csproj" />
+  <Project Path="bai5.4/bai5.4.csproj" Id="d69a2016-b025-4bfe-9516-bf9ad11bce6b" />
+  <Project Path="bai5_3/bai5_3.csproj" Id="0e77b09e-007f-45b5-8164-ac8758ff191d" />
+</Solution>
