@@ -1,0 +1,6 @@
+D:\.net\Bai4.8\bin\Debug\Bai4_8_AsyncProgress.exe
+D:\.net\Bai4.8\bin\Debug\Bai4_8_AsyncProgress.pdb
+D:\.net\Bai4.8\obj\Debug\Bai4_8_AsyncProgress.csproj.AssemblyReference.cache
+D:\.net\Bai4.8\obj\Debug\Bai4_8_AsyncProgress.csproj.CoreCompileInputs.cache
+D:\.net\Bai4.8\obj\Debug\Bai4_8_AsyncProgress.exe
+D:\.net\Bai4.8\obj\Debug\Bai4_8_AsyncProgress.pdb
