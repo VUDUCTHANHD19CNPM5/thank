@@ -18,7 +18,7 @@
 
 
 
-![Bài 4.6](baitap13102026/Bai4.6/bai4.6.png)
+![bai4.6](baitap13102026/Bai4.6/bai4.6.png)
 
 
 
@@ -30,7 +30,7 @@
 
 
 
-![Bài 4.7](baitap13102026/Bai4.7/bai4.7.png)
+![bai4.7](baitap13102026/Bai4.7/bai4.7.png)
 
 
 
@@ -42,4 +42,4 @@
 
 
 
-![Bài 4.8](baitap13102026/Bai4.8/bai4.8.png)
+![bai4.8](baitap13102026/Bai4.8/bai4.8.png)
