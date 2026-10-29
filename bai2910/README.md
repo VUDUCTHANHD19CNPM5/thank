@@ -15,7 +15,9 @@ Database/ScriptDB.sql để khởi tạo CSDL và dữ liệu mẫu.
 3. Mở file cấu hình (App.config hoặc DatabaseHelper.cs), sửa lại chuỗi
 kết nối ConnectionString cho phù hợp với máy cá nhân.
 4. Build & Run dự án (F5).
+=======
 MỤC 3: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
+- trong từng file có đáp án của bài
 =======
 # Lập trình .NET
 
@@ -26,4 +28,3 @@ MỤC 3: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
 **Lớp:** D19CNPM5  
 
 **Mã sinh viên:** 24810310487
->>>>>>> e56ee9e8545891db9916be6f46e2cb310a4e820c
