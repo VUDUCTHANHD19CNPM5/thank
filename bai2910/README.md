@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 MỤC 1: THÔNG TIN SINH VIÊN
 • Họ và tên sinh viên: Vũ Đức Thanh
 • Mã sinh viên: 24810310487
@@ -15,4 +16,14 @@ Database/ScriptDB.sql để khởi tạo CSDL và dữ liệu mẫu.
 kết nối ConnectionString cho phù hợp với máy cá nhân.
 4. Build & Run dự án (F5).
 MỤC 3: HÌNH ẢNH KẾT QUẢ CÁC MÀN HÌNH CHỨC NĂNG
-- Trong từng File có ảnh của từng bài.
+=======
+# Lập trình .NET
+
+
+
+**Họ và tên:** Vũ Đức Thanh
+
+**Lớp:** D19CNPM5  
+
+**Mã sinh viên:** 24810310487
+>>>>>>> e56ee9e8545891db9916be6f46e2cb310a4e820c
