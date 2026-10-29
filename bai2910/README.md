@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 MỤC 1: THÔNG TIN SINH VIÊN
 
 
