@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|d:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|solutionrelative:bai5.5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|d:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|solutionrelative:bai5.5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|d:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|solutionrelative:bai5.5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|d:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|solutionrelative:bai5.5\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|d:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\inventorybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|solutionrelative:bai5.5\\inventorybus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|d:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAB029F7-13E1-4FAF-A0D6-48726BEAE239}|bai5.5\\bai5.5.csproj|solutionrelative:bai5.5\\inventorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "bai5.5\\Form1.Designer.cs",
+              "ToolTip": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\Form1.Designer.cs",
+              "RelativeToolTip": "bai5.5\\Form1.Designer.cs",
+              "ViewState": "AgIAAAcBAAAAAAAAAAAQwCcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:02:41.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryBUS.cs",
+              "DocumentMoniker": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\InventoryBUS.cs",
+              "RelativeDocumentMoniker": "bai5.5\\InventoryBUS.cs",
+              "ToolTip": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\InventoryBUS.cs",
+              "RelativeToolTip": "bai5.5\\InventoryBUS.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwEkAAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:00:32.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InventoryDTO.cs",
+              "DocumentMoniker": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\InventoryDTO.cs",
+              "RelativeDocumentMoniker": "bai5.5\\InventoryDTO.cs",
+              "ToolTip": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\InventoryDTO.cs",
+              "RelativeToolTip": "bai5.5\\InventoryDTO.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:59:24.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "bai5.5\\DatabaseHelper.cs",
+              "ToolTip": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\DatabaseHelper.cs",
+              "RelativeToolTip": "bai5.5\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:58:41.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\Form1.cs",
+              "RelativeDocumentMoniker": "bai5.5\\Form1.cs",
+              "ToolTip": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\Form1.cs",
+              "RelativeToolTip": "bai5.5\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwGwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:31:26.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\Form1.cs",
+              "RelativeDocumentMoniker": "bai5.5\\Form1.cs",
+              "ToolTip": "D:\\.net\\bai2910\\bai5.5\\bai5.5\\bai5.5\\Form1.cs [Design]",
+              "RelativeToolTip": "bai5.5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T10:29:05.148Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
